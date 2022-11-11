@@ -1,3 +1,6 @@
+[![](https://jitpack.io/v/kevinsojitra/base.svg)](https://jitpack.io/#kevinsojitra/base)
+
+
 # base
 
 # 1. Add Meven
